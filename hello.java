@@ -8,6 +8,7 @@ public class hello
 		System.out.println("__________________");
 		System.out.println("Sum of 2 numbers");
 		System.out.println("Sum = "+(a+b));
+		System.out.println("__________________");
 	}
 }
 
